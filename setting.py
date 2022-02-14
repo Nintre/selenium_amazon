@@ -1,0 +1,6 @@
+# 数据库
+HOSTNAME = '127.0.0.1'
+PORT = 3306
+DATABASE = 'mysql'
+USERNAME = "root"
+PASSWORD = "hu306415"
